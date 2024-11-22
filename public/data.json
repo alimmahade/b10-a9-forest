@@ -1,0 +1,100 @@
+
+[
+    {
+      "AdventureTitle": "Rainforest Trekking Adventure",
+      "Image": "https://i.ibb.co.com/BTbCSRf/1.webp",
+      "ID": "FE001",
+      "CategoryName": "Rainforest Expedition",
+      "ShortDescription": "Explore lush rainforests with an expert guide.",
+      "AdventureCost": 250,
+      "BookingAvailability": true,
+      "Location": "Amazon Rainforest, Brazil",
+      "Duration": "3 Days, 2 Nights",
+      "AdventureLevel": "Intermediate",
+      "IncludedItems": ["Guide", "Meals", "Camping Gear", "Transportation"],
+      "EcoFriendlyFeatures": ["Recyclable Equipment", "No-Plastic Policy", "Sustainable Meals"],
+      "MaxGroupSize": 10,
+      "SpecialInstructions": [
+        "Wear sturdy hiking boots.",
+        "Pack lightweight clothing.",
+        "Carry insect repellent and sunscreen."
+      ]
+    },
+    {
+      "AdventureTitle": "Evergreen Forest Wildlife Tour",
+      "Image": "https://i.ibb.co.com/DQnTvhN/2.webp",
+      "ID": "FE002",
+      "CategoryName": "Wildlife Expedition",
+      "ShortDescription": "A guided tour to discover unique wildlife in evergreen forests.",
+      "AdventureCost": 180,
+      "BookingAvailability": true,
+      "Location": "Black Forest, Germany",
+      "Duration": "2 Days, 1 Night",
+      "AdventureLevel": "Beginner",
+      "IncludedItems": ["Binoculars", "Snacks", "Transport"],
+      "EcoFriendlyFeatures": ["Paper Maps Only", "Wildlife Conservation Donation", "Reusable Utensils"],
+      "MaxGroupSize": 15,
+      "SpecialInstructions": [
+        "Bring a camera for wildlife photography.",
+        "Avoid loud noises to not disturb animals."
+      ]
+    },
+    {
+      "AdventureTitle": "Mystic Bamboo Grove Expedition",
+      "Image": "https://i.ibb.co.com/jT2LPFG/3.jpg",
+      "ID": "FE003",
+      "CategoryName": "Cultural Expedition",
+      "ShortDescription": "Immerse yourself in the mystique of ancient bamboo forests.",
+      "AdventureCost": 300,
+      "BookingAvailability": false,
+      "Location": "Arashiyama, Japan",
+      "Duration": "1 Day",
+      "AdventureLevel": "Beginner",
+      "IncludedItems": ["Local Guide", "Traditional Meal"],
+      "EcoFriendlyFeatures": ["Minimal Footprint Pathways", "Support Local Craftsmanship"],
+      "MaxGroupSize": 8,
+      "SpecialInstructions": [
+        "Respect cultural norms.",
+        "Dress modestly and comfortably."
+      ]
+    },
+    {
+      "AdventureTitle": "Alpine Forest Snow Trek",
+      "Image": "https://i.ibb.co.com/vcsTfMB/4.webp",
+      "ID": "FE004",
+      "CategoryName": "Snow Trekking",
+      "ShortDescription": "A thrilling trek through snow-covered alpine forests.",
+      "AdventureCost": 400,
+      "BookingAvailability": true,
+      "Location": "Swiss Alps, Switzerland",
+      "Duration": "5 Days, 4 Nights",
+      "AdventureLevel": "Advanced",
+      "IncludedItems": ["Expert Guide", "Winter Gear", "Meals", "Shelter"],
+      "EcoFriendlyFeatures": ["Renewable Energy Camps", "Biodegradable Waste Disposal"],
+      "MaxGroupSize": 6,
+      "SpecialInstructions": [
+        "Ensure fitness readiness for extreme weather.",
+        "Pack thermal wear and trekking poles."
+      ]
+    },
+    {
+      "AdventureTitle": "Sacred Redwood Hike",
+      "Image": "https://i.ibb.co.com/DR6FdbB/5.webp",
+      "ID": "FE005",
+      "CategoryName": "Forest Hike",
+      "ShortDescription": "Experience the grandeur of the tallest trees on Earth.",
+      "AdventureCost": 120,
+      "BookingAvailability": true,
+      "Location": "Redwood National Park, USA",
+      "Duration": "1 Day",
+      "AdventureLevel": "Easy",
+      "IncludedItems": ["Map", "Snacks", "First Aid Kit"],
+      "EcoFriendlyFeatures": ["Leave-No-Trace Policy", "Reusable Water Bottles"],
+      "MaxGroupSize": 20,
+      "SpecialInstructions": [
+        "Stay on marked trails.",
+        "Respect wildlife and plant life."
+      ]
+    }
+  ]
+  
